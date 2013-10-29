@@ -1,5 +1,5 @@
 QTJSBACKEND_VERSION = 5.0.1
-QTJSBACKEND_SITE = http://releases.qt-project.org/qt5/$(QTJSBACKEND_VERSION)/submodules_tar
+QTJSBACKEND_SITE = http://download.qt-project.org/archive/qt/5.0/5.0.1/submodules_tar
 QTJSBACKEND_SOURCE = qtjsbackend-opensource-src-$(QTJSBACKEND_VERSION).tar.xz
 QTJSBACKEND_DEPENDENCIES = qtbase
 QTJSBACKEND_INSTALL_STAGING = YES

@@ -1,5 +1,5 @@
 QTSCRIPT_VERSION = 5.0.1
-QTSCRIPT_SITE = http://releases.qt-project.org/qt5/$(QTSCRIPT_VERSION)/submodules_tar
+QTSCRIPT_SITE = http://download.qt-project.org/archive/qt/5.0/5.0.1/submodules_tar
 QTSCRIPT_SOURCE = qtscript-opensource-src-$(QTSCRIPT_VERSION).tar.xz
 QTSCRIPT_DEPENDENCIES = qtbase
 QTSCRIPT_INSTALL_STAGING = YES

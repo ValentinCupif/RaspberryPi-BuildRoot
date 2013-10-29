@@ -1,5 +1,5 @@
 QTQUICK1_VERSION = 5.0.1
-QTQUICK1_SITE = http://releases.qt-project.org/qt5/$(QTQUICK1_VERSION)/submodules_tar
+QTQUICK1_SITE = http://download.qt-project.org/archive/qt/5.0/5.0.1/submodules_tar
 QTQUICK1_SOURCE = qtquick1-opensource-src-$(QTQUICK1_VERSION).tar.xz
 QTQUICK1_DEPENDENCIES = qtbase qtxmlpatterns qtscript qtdeclarative qtjsbackend qtwebkit
 QTQUICK1_INSTALL_STAGING = YES

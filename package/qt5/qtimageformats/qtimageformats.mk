@@ -1,5 +1,5 @@
 QTIMAGEFORMATS_VERSION = 5.0.1
-QTIMAGEFORMATS_SITE = http://releases.qt-project.org/qt5/$(QTIMAGEFORMATS_VERSION)/submodules_tar
+QTIMAGEFORMATS_SITE = http://download.qt-project.org/archive/qt/5.0/5.0.1/submodules_tar
 QTIMAGEFORMATS_SOURCE = qtimageformats-opensource-src-$(QTIMAGEFORMATS_VERSION).tar.xz
 QTIMAGEFORMATS_DEPENDENCIES = qtbase
 QTIMAGEFORMATS_INSTALL_STAGING = YES

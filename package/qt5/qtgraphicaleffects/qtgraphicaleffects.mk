@@ -1,5 +1,5 @@
 QTGRAPHICALEFFECTS_VERSION = 5.0.1
-QTGRAPHICALEFFECTS_SITE = http://releases.qt-project.org/qt5/$(QTGRAPHICALEFFECTS_VERSION)/submodules_tar
+QTGRAPHICALEFFECTS_SITE = http://download.qt-project.org/archive/qt/5.0/5.0.1/submodules_tar
 QTGRAPHICALEFFECTS_SOURCE = qtgraphicaleffects-opensource-src-$(QTGRAPHICALEFFECTS_VERSION).tar.xz
 QTGRAPHICALEFFECTS_DEPENDENCIES = qtdeclarative
 QTGRAPHICALEFFECTS_INSTALL_STAGING = YES
